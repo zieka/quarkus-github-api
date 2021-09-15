@@ -1,3 +1,6 @@
+/*
+ * something
+ */
 package io.quarkiverse.githubapi.deployment;
 
 import static io.quarkiverse.githubapi.deployment.GitHubApiDotNames.GH_ROOT_OBJECTS;
